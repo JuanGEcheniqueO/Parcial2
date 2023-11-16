@@ -1,0 +1,23 @@
+[
+    {
+      "imagen": "inmuebles/Habitaciones/habitacion1low.jpg",
+      "Precio": "$110.000",
+      "Ubicacion": "Domicilio: Calle URquiza 3853",
+      "Superficie": "Metros cuadrados: 50 m²",
+      "Descripcion": "El diseño moderno y los acabados de calidad hacen de este departamento un lugar acogedor y cómodo para vivir."
+    },
+    {
+      "imagen": "inmuebles/Habitaciones/habitacion2low.jpg",
+      "Precio": "$90.000",
+      "Ubicacion": "Domicilio: Calle Crnl. Torres 352",
+      "Superficie": "Metros cuadrados: 20 m²",
+      "Descripcion": "El diseño moderno y los acabados de calidad hacen de este departamento un lugar acogedor y cómodo para vivir."
+    },
+    {
+      "imagen": "inmuebles/Habitaciones/habitacion3low.jpg",
+      "Precio": "$150.000",
+      "Ubicacion": "Domicilio: Calle Taboada 8932",
+      "Superficie": "Metros cuadrados: 25 m²",
+      "Descripcion": "El diseño moderno y los acabados de calidad hacen de este departamento un lugar acogedor y cómodo para vivir."
+    }
+]

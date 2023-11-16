@@ -1,0 +1,23 @@
+[
+  {
+    "imagen": "../inmuebles/Casas/casa1low.jpg",
+    "Precio": "$150.000",
+    "Ubicacion": "Domicilio: Calle Primavera 123",
+    "Superficie": "Metros cuadrados: 80 m²",
+    "Descripcion": "El diseño moderno y los acabados de calidad hacen de este departamento un lugar acogedor y cómodo para vivir."
+  },
+  {
+    "imagen": "../inmuebles/Casas/casa2low.jpg",
+    "Precio": "$120.000",
+    "Ubicacion": "Domicilio: Avenida del Sol 456",
+    "Superficie": "Metros cuadrados: 65 m²",
+    "Descripcion": "El diseño del interior moderno y los detalles elegantes hacen de este departamento un lugar acogedor y lleno de encanto."
+  },
+  {
+    "imagen": "../inmuebles/Casas/casa3low.jpg",
+    "Precio": "$180.000",
+    "Ubicacion": "Domicilio: Calle Tranquila 789",
+    "Superficie": "Metros cuadrados: 100 m²",
+    "Descripcion": "El diseño del interior moderno y los detalles elegantes hacen de este departamento un lugar acogedor y lleno de encanto."
+  }
+]

@@ -1,0 +1,23 @@
+[
+    {
+      "imagen": "inmuebles/Departamentos/departamento1low.jpg",
+      "Precio": "$950.000",
+      "Ubicacion": "Domicilio: Calle San Martin 1534",
+      "Superficie": "Metros cuadrados: 200 m²",
+      "Descripcion": "El diseño moderno y los acabados de calidad hacen de este departamento un lugar acogedor y cómodo para vivir."
+    },
+    {
+      "imagen": "inmuebles/Departamentos/departamento2low.jpg",
+      "Precio": "$250.000",
+      "Ubicacion": "Domicilio: Calle Gnrl. Ortiz 89",
+      "Superficie": "Metros cuadrados: 95 m²",
+      "Descripcion": "El diseño moderno y los acabados de calidad hacen de este departamento un lugar acogedor y cómodo para vivir."
+    },
+    {
+      "imagen": "inmuebles/Departamentos/departamentolow.jpg",
+      "Precio": "$350.000",
+      "Ubicacion": "Domicilio: Calle Ortega 543",
+      "Superficie": "Metros cuadrados: 150 m²",
+      "Descripcion": "El diseño rustico y los acabados de calidad hacen de este departamento un lugar acogedor y cómodo para vivir."
+    }
+  ]
